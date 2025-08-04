@@ -1,1 +1,4 @@
 # Markly
+# Introduction
+Markly is an automated system that uses the computer vision techniques and principles to mark attendance of a person. This system is highly useful in office spaces, colleges, universities and other organizations to mark the attendance of employees and students without any manual effort. Many organizations employ certain ways to mark attendance among which the most commonly used are punching, call-out method, manually writing taking the attendance on the paper, etc.
+Hence Markly helps save this manual effort by automating the process with the help of cameras, hence saving some time. It uses object detection to detect the person and mark his/her attendance. The attendance is stored in a database. For marking the attendance the person is required to stand in front of the the camera for a period of few seconds till captured.
